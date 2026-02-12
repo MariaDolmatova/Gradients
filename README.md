@@ -1,4 +1,4 @@
-This is a small project aimed to compare 2 numerical optimization algorythms. The code implements two algorithms to find the minimum of a quadratic function: Method of Steepest Descent (fast) and the Conjugate Gradient Method (conj_grad).
+This is a small project aimed to compare 2 numerical optimization algorithms. The code implements two algorithms to find the minimum of a quadratic function: Method of Steepest Descent (fast) and the Conjugate Gradient Method (conj_grad).
 ---
 # **The Target Function**  
 
